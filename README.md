@@ -47,7 +47,7 @@ To handle the scale of a national citizen portal while optimizing third-party AP
 
 1. **Clone the repository:**
    ```bash
-  git clone [https://github.com/YourUsername/schemeconnect-platform.git](https://github.com/Rahul8660012565/schemeconnect-platform.git)
+  git clone [https://github.com/Rahul8660012565/schemeconnect-platform.git](https://github.com/Rahul8660012565/schemeconnect-platform.git)
    cd schemeconnect-platform
 
 2. **Install dependencies:**
