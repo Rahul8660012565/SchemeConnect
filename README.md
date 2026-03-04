@@ -38,7 +38,7 @@ To handle the scale of a national citizen portal while optimizing third-party AP
 * **Frontend:** React.js, Lucide-React, CSS Modules
 * **Backend:** Node.js, Express.js
 * **Database:** MySQL
-* **AI Engine:** Google `@google/generative-ai` (Gemini 1.5 Flash)
+* **AI Engine:** Google `@google/generative-ai` (Gemini 2.5 Flash)
 * **Security:** `bcryptjs` (Pure JS implementation for cross-platform ARM compatibility)
 
 ---
